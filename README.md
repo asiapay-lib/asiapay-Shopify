@@ -2,7 +2,7 @@
 Use PayDollar/PesoPay/SiamPay Payment provider for Shopify to offer ALL payments option.
 
 ## Setup / Installation
-Please download the latest version Installation Guide and follow the installation step. https://github.com/asiapay-lib/asiapay-Shopify/blob/main/New%20Shopify%20Plugin%20Installation%20Guide%20-%20PayDollar_SiamPay_PesoPay.pdf
+Please download the latest version Installation Guide and follow the installation step. [Download](https://github.com/asiapay-lib/asiapay-Shopify/raw/main/New%20Shopify%20Plugin%20Installation%20Guide%20-%20PayDollar_SiamPay_PesoPay.pdf)
 
 ## Setup the Datafeed URL on PayDollar/PesoPay/SiamPay
  1. Login to your PayDollar/PesoPay/SiamPay account.
